@@ -478,6 +478,7 @@ h1, h2, h3, h4 {
 
 .about-image-wrapper {
     position: relative;
+    width: 100%;
     padding-bottom: 120%;
     border-radius: var(--border-radius-lg);
     overflow: visible;
@@ -706,6 +707,7 @@ h1, h2, h3, h4 {
 
 .meso-image-side {
     position: relative;
+    width: 100%;
     padding-bottom: 120%;
     border-radius: var(--border-radius-md);
     box-shadow: var(--shadow-md);
